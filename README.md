@@ -16,4 +16,5 @@ git clone https://github.com/TermuxArt/hacker
 cd hacker
 
 python hack.py
+
 '''
