@@ -1,8 +1,10 @@
 # hacker
+
 Hacker Akkun FB
 
 #Install
-'''
+
+```
 apt update && apt upgrade -y
 
 apt install python
@@ -17,4 +19,4 @@ cd hacker
 
 python hack.py
 
-'''
+```
