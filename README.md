@@ -20,3 +20,5 @@ cd hacker
 python hack.py
 
 ```
+
+<img src="hack.png">
